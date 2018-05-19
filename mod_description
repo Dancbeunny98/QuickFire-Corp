@@ -10,6 +10,19 @@
 
 |>> Changes: 
 
+>R2.4.1.8
+|fix 1.31.x game
+|Modification doesn't work below 1.31.x
+
+>PR2.4.1.7
+|fix 1.31.x game
+
+>PR2.4.1.6
+|fix 1.31.2.1s game
+
+>PR2.4.1.5
+|fix 1.31.1s game
+
 >PR2.4.1.4
 |Fix crash game
 
