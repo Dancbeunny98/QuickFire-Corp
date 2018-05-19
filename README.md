@@ -8,10 +8,10 @@ This is a virtual transport company ETS2MP. Our company carries the lightest fre
   Сontacts
 -------------------------
 
-* Discord-invite; https://discord.gg/MfKUp4F
-* Community in VK; https://vk.com/vtcqfc
-* Changes; https://github.com/Dancbeunny98/QuickFire-Corp/commits/master/mod_description
-* Authors; https://vk.com/feniksovich and https://vk.com/andrey_volchkov
+* Discord-invite; [discord.gg/MfKUp4F](https://discord.gg/MfKUp4F "Transition to the official server DISCORD")
+* Community in VK; [vk.com/vtcqfc](https://vk.com/vtcqfc "Transition to official group")
+* Changes; [mod_description](https://github.com/Dancbeunny98/QuickFire-Corp/commits/master/mod_description "Log of changes")
+* Authors; [Dancebunny98](https://vk.com/andrey_volchkov "The author of modification and just good person who founded virtual transportation company") and [feniksovich](https://vk.com/feniksovich "Designer and idea man")
 
 -------------------------
 * Current version: R2.4.1.8
