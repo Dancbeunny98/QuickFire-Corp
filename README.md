@@ -1,5 +1,7 @@
 # QuickFire-Corp.
 
+![alt text](https://steamuserimages-a.akamaihd.net/ugc/2431257256130495982/9A7AC0A6CFD69FF1D0BAC28BE5B7F3B972511D4A/)
+
   What is QuickFire Corp.
 -------------------------
 
