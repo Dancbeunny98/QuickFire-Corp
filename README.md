@@ -13,8 +13,6 @@ This is a virtual transport company ETS2MP. Our company carries the lightest fre
 * Changes; https://github.com/Dancbeunny98/QuickFire-Corp/commits/master/mod_description
 * Authors; https://vk.com/feniksovich and https://vk.com/andrey_volchkov
 
-  Updates
 -------------------------
-
 * Current version: R2.4.1.8
 * Supported ETS2 Version: 1.31.2.2s
