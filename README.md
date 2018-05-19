@@ -1,5 +1,4 @@
 # QuickFire-Corp.
-
 ================
 |>>>What is QuickFire Corp. ?
 |This is a virtual transport company ETS2MP. Our company carries the lightest freights, on the longest distances. And the main thing that thus freight and the vehicle remains without any injuries. I would also like to emphasize the coherence and pleasant communication in the team and active participation in open convoys other VTС.
