@@ -1,6 +1,6 @@
 # QuickFire-Corp.
 
-<img src="https://sun9-7.userapi.com/c840426/v840426441/7468c/ESV2omM3Eig.jpg" width="900" height="360"/>
+<img src="https://sun9-7.userapi.com/c840426/v840426441/7468c/ESV2omM3Eig.jpg" width="1900" height="560"/>
 
 
   What is QuickFire Corp.
