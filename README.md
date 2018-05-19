@@ -6,13 +6,14 @@ This is a virtual transport company ETS2MP. Our company carries the lightest fre
 
 
   Сontacts:
+  
 Discord-invite; https://discord.gg/MfKUp4F
 
 Community in VK; https://vk.com/vtcqfc
 
 Changes; https://github.com/Dancbeunny98/QuickFire-Corp/commits/master/mod_description
 
-Authors; vk.com/feniksovich and vk.com/andrey_volchkov
+Authors; https://vk.com/feniksovich and https://vk.com/andrey_volchkov
 
 
 Current version: R2.4.1.8
