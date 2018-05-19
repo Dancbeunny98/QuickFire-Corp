@@ -1,6 +1,5 @@
 # QuickFire-Corp.
 
-========================
   What is QuickFire Corp.
 -------------------------
 
