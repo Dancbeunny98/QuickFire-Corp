@@ -17,5 +17,5 @@ This is a virtual transport company ETS2MP. Our company carries the lightest fre
 * Authors; [Dancebunny98](https://vk.com/andrey_volchkov "The author of modification and just good person who founded virtual transportation company") and [_Feniksovich_](https://vk.com/feniksovich "Designer and idea man")
 
 -------------------------
-* Current version: R2.4.1.8
+* Current version: R2.4.1.9 (not stable version)
 * Supported ETS2 Version: 1.31.2.2s
