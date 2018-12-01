@@ -18,4 +18,4 @@ This is a virtual transport company ETS2MP. Our company carries the lightest fre
 
 -------------------------
 * Current version: R2.4.3 (Stable version)
-* Supported ETS2 Version: 1.32.x
+* Supported ETS2 Version: 1.33.x
