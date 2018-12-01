@@ -6,7 +6,7 @@
   What is QuickFire Corp.
 -------------------------
 
-This is a virtual transport company ETS2MP. Our company carries the lightest freights, on the longest distances. And the main thing that    thus freight and the vehicle remains without any injuries. I would also like to emphasize the coherence and pleasant communication in the  team and active participation in open convoys other VTС.
+QuickFire Corp. - a virtual transport company for the game Euro Truck Simulator 2, specializing in the transportation of a variety of goods and delivering orders from the northern part of Norway to the south-eastern part of Italy. The company has its own ranking system, selection system and modification in the Steam Workshop. The most active participants of the company have the opportunity to receive any DLC at the expense of the company!
 
   Сontacts
 -------------------------
