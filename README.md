@@ -17,5 +17,5 @@ QuickFire Corp. - a virtual transport company for the game Euro Truck Simulator 
 * Authors; [Dancebunny98](https://vk.com/andrey_volchkov "The author of modification and just good person who founded virtual transportation company") and [_Feniksovich_](https://vk.com/feniksovich "Designer and idea man")
 
 -------------------------
-* Current version: R4 (Stable version)
-* Supported ETS2 Version: 1.34.x
+* Current version: R4.1 (Stable version)
+* Supported ETS2 Version: 1.35.x
